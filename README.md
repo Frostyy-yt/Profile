@@ -1,9 +1,17 @@
-﻿# Profile Site
+# GitHub Pages setup
 
-This repository contains a simple profile website for Muhammad Daffa Irsyad Alfathan. Deployed with GitHub Pages (branch: `gh-pages`).
+This project is ready to be published as a GitHub Pages site.
 
-## Live
-Likely: https://Frostyy-yt.github.io/Profile/
+## Steps
 
-## Notes
-If the Pages site doesn't appear, enable GitHub Pages in repository settings or let me enable it via `gh`.
+1. Push this folder to a GitHub repository.
+2. In GitHub, open the repository.
+3. Go to Settings > Pages.
+4. Set the source to the main branch (or master) and root folder `/`.
+5. Save.
+6. GitHub will generate a live URL like:
+   `https://<your-username>.github.io/<repository-name>/`
+
+## Important
+
+The page entry file is `index.html`, which is the file GitHub Pages serves automatically.
